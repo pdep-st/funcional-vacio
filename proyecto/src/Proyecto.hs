@@ -1,4 +1,4 @@
-module Proyect where
+module Proyecto where
 import PdePreludat
 
 doble :: Number -> Number
